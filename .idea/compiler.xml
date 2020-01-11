@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FinanceJar" target="1.5" />
+      <module name="FinanceJar" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
